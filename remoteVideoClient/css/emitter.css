@@ -1,0 +1,9 @@
+#connectionCodeSelector > input, #connectionCodeSelector > button{
+    line-height: 50px;
+    font-size: 30px;
+    display: inline-block;
+    vertical-align: top;
+}
+#connectionCodeSelector > input{
+    padding-left: 10px;
+}
